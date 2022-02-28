@@ -21,7 +21,7 @@ Replace the first row with your own contribution.
 
 
 | Date #       | Contribution (Link)  | Type  | Description |
-|---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
-|     |     |     |      |
-|     |     |     |      |
+|--------------|:---------------------|:------|:------------|
+| 2/20/2022    | https://www.openstreetmap.org/changeset/117661072| OpenStreet Map feature |I added names to two stores |
+| 2/20/2022    | https://www.openstreetmap.org/changeset/117660806| OpenStreet Map feature |I added the address, phone number, email, website, building type, and animal shelter type to SAVE - A Friend to Homeless Animals |
+| 2/20/2022    | https://www.openstreetmap.org/changeset/117660540| OpenStreet Map feature |I added the name to a farm  |
