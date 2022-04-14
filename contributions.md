@@ -28,3 +28,5 @@ Replace the first row with your own contribution.
 | 3/3/2022    | [https://github.com/joannakl/ossd/issues/8](https://github.com/joannakl/ossd/issues/8)| Course website |I created an issue reporting a broken link in week 6 |
 | 3/4/2022    | [https://github.com/joannakl/ossd/issues/12](https://github.com/joannakl/ossd/issues/12)| Course website |I created an issue reporting a few typos in contributions.html |
 | 3/5/2022     | [https://github.com/joannakl/ossd/pull/18](https://github.com/joannakl/ossd/pull/18) | Course website | Made a pull request to correct "FeeDOS" to "FreeDOS" in week 2 assignments|
+| 4/12/2022    | [https://www.openstreetmap.org/changeset/119640100](https://www.openstreetmap.org/changeset/119640100)| OpenStreet Map feature |I updated hours, and added website and phone |
+| 4/12/2022    | [https://www.openstreetmap.org/changeset/119640194](https://www.openstreetmap.org/changeset/119640194)| OpenStreet Map feature |I updated hours, and added the address and website for a cafe |
