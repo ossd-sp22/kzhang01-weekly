@@ -30,4 +30,5 @@ Replace the first row with your own contribution.
 | 3/5/2022     | [https://github.com/joannakl/ossd/pull/18](https://github.com/joannakl/ossd/pull/18) | Course website | Made a pull request to correct "FeeDOS" to "FreeDOS" in week 2 assignments|
 | 4/12/2022    | [https://www.openstreetmap.org/changeset/119640100](https://www.openstreetmap.org/changeset/119640100)| OpenStreet Map feature |I updated hours, and added website and phone |
 | 4/12/2022    | [https://www.openstreetmap.org/changeset/119640194](https://www.openstreetmap.org/changeset/119640194)| OpenStreet Map feature |I updated hours, and added the address and website for a cafe |
-| 4/14/2022    | [https://github.com/bsovs/Fall2022-Internships/pull/32](https://github.com/bsovs/Fall2022-Internships/pull/32)| Fall Internship List | I made a pull request to add an internship opening which was merged|
+| 4/14/2022    | [https://github.com/bsovs/Fall2022-Internships/pull/32](https://github.com/bsovs/Fall2022-Internships/pull/32)| Fall Internship List | I made a pull request to add an internship opening which was merged |
+| 4/19/2022    | [https://github.com/TheOdinProject/curriculum/pull/24055](https://github.com/TheOdinProject/curriculum/pull/24055)| The Odin Project | I claimed an issue to work on updating the README.md layout and fixing paths, and opened a pull request |
