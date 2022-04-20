@@ -32,3 +32,4 @@ Replace the first row with your own contribution.
 | 4/12/2022    | [https://www.openstreetmap.org/changeset/119640194](https://www.openstreetmap.org/changeset/119640194)| OpenStreet Map feature |I updated hours, and added the address and website for a cafe |
 | 4/14/2022    | [https://github.com/bsovs/Fall2022-Internships/pull/32](https://github.com/bsovs/Fall2022-Internships/pull/32)| Fall Internship List | I made a pull request to add an internship opening which was merged |
 | 4/19/2022    | [https://github.com/TheOdinProject/curriculum/pull/24055](https://github.com/TheOdinProject/curriculum/pull/24055)| The Odin Project | I claimed an issue to work on updating the README.md layout and fixing paths, and opened a pull request |
+| 4/19/2022    | [https://github.com/bsovs/Fall2022-Internships/pull/34](https://github.com/bsovs/Fall2022-Internships/pull/34)| Fall Internship List | Added two internship openings and specified position type for existing opening |
