@@ -30,9 +30,11 @@ Replace the first row with your own contribution.
 | 3/5/2022     | [link](https://github.com/joannakl/ossd/pull/18) | Course website | Made a pull request to correct "FeeDOS" to "FreeDOS" in week 2 assignments|
 | 4/12/2022    | [link](https://www.openstreetmap.org/changeset/119640100)| OpenStreet Map feature |I updated hours, and added website and phone |
 | 4/12/2022    | [link](https://www.openstreetmap.org/changeset/119640194)| OpenStreet Map feature |I updated hours, and added the address and website for a cafe |
-| 4/14/2022    | [link](https://github.com/bsovs/Fall2022-Internships/pull/32)| Fall Internship List | I made a pull request to add an internship opening which was merged |
+| 4/14/2022    | [link](https://github.com/bsovs/Fall2022-Internships/pull/32)| bsovs Fall 2022 Internships | I made a pull request to add an internship opening which was merged |
 | 4/19/2022    | [link](https://github.com/TheOdinProject/curriculum/pull/24055)| The Odin Project | I claimed an issue to work on updating the README.md layout and fixing paths, and opened a pull request. Update: merged!|
-| 4/19/2022    | [link](https://github.com/bsovs/Fall2022-Internships/pull/34)| Fall Internship List | Added two internship openings and specified position type for existing opening |
+| 4/19/2022    | [link](https://github.com/bsovs/Fall2022-Internships/pull/34)| bsovs Fall 2022 Internships | Added two internship openings and specified position type for existing opening |
 | 4/20/2022    | [link](https://github.com/codinasion/codinasion/pull/487)| Codinasion | Added implementation of swap without third variable in java |
 | 4/21/2022    | [link](https://github.com/mlflow/mlflow/pull/5743)| mlflow | Fixed a handful of typos |
 | 4/23/2022    | [link](https://github.com/codinasion/codinasion/pull/493)| Codinasion | Added implementation of Armstrong number |
+| 5/2/2022    | [link](https://github.com/pittcsc/Summer2022-Internships/pull/805)| pittcsc Summer 2022 Internships | Closed a handful of positions that were no longer accepting applications |
+| 5/2/2022    | [link](https://github.com/pittcsc/Summer2022-Internships/pull/806)| pittcsc Summer 2022 Internships | Closed a handful of positions that were no longer accepting applications |
