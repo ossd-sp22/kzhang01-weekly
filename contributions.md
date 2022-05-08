@@ -38,3 +38,4 @@ Replace the first row with your own contribution.
 | 4/23/2022    | [link](https://github.com/codinasion/codinasion/pull/493)| Codinasion | Added implementation of Armstrong number |
 | 5/2/2022    | [link](https://github.com/pittcsc/Summer2022-Internships/pull/805)| pittcsc Summer 2022 Internships | Closed a handful of positions that were no longer accepting applications |
 | 5/2/2022    | [link](https://github.com/pittcsc/Summer2022-Internships/pull/806)| pittcsc Summer 2022 Internships | Closed a handful of positions that were no longer accepting applications |
+| 5/6/2022   | [link](https://github.com/bsovs/Fall2022-Internships/pull/51) | bsovs Fall 2022 Internships | Opened and merged PR that resolves an issue stating that Leidos is no longer accepting applications |
